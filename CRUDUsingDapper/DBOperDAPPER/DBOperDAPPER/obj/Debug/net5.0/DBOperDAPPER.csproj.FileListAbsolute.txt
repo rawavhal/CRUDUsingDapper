@@ -1,0 +1,12 @@
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\bin\Debug\net5.0\DBOperDAPPER.deps.json
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\bin\Debug\net5.0\DBOperDAPPER.dll
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\bin\Debug\net5.0\ref\DBOperDAPPER.dll
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\bin\Debug\net5.0\DBOperDAPPER.pdb
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.csproj.AssemblyReference.cache
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.AssemblyInfoInputs.cache
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.AssemblyInfo.cs
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.dll
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\ref\DBOperDAPPER.dll
+C:\Users\rahul\Data\Development\Development\DBOperDapper\DBOperDAPPER\DBOperDAPPER\obj\Debug\net5.0\DBOperDAPPER.pdb

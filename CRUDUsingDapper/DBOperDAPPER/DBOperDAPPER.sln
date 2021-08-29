@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBOperDAPPER", "DBOperDAPPER\DBOperDAPPER.csproj", "{6367B3EE-FD9C-40A2-8517-4BC33759B356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDDapper", "..\..\CRUDDapper\CRUDDapper\CRUDDapper.csproj", "{5F687017-BAEE-4B57-A4D5-931760DF566D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6367B3EE-FD9C-40A2-8517-4BC33759B356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6367B3EE-FD9C-40A2-8517-4BC33759B356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6367B3EE-FD9C-40A2-8517-4BC33759B356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6367B3EE-FD9C-40A2-8517-4BC33759B356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F687017-BAEE-4B57-A4D5-931760DF566D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F687017-BAEE-4B57-A4D5-931760DF566D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F687017-BAEE-4B57-A4D5-931760DF566D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F687017-BAEE-4B57-A4D5-931760DF566D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E10398-830F-4EB7-AA67-9F7DB15019A9}
+	EndGlobalSection
+EndGlobal
